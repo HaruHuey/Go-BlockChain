@@ -14,3 +14,4 @@
 # custom gitignore
 debug
 .vscode
+.memo
